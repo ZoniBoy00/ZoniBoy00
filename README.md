@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ZoniBoy00.ZoniBoy00&left_color=red&right_color=green&left_text=HelloVisitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ZoniBoy00.ZoniBoy00&left_color=red&right_color=green&left_text=Visitors)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZoniBoy00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
