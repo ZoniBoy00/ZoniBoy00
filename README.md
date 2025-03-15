@@ -1,8 +1,4 @@
-<div align="center">
-  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
-</div>
-
-###
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZoniBoy00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -12,5 +8,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/ZoniBoy00/ZoniBoy00/output/snake.svg" alt="Snake animation" />
-
-###
