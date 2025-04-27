@@ -2,7 +2,7 @@
 
   # 👋 Welcome to My GitHub Profile!  
 
-  ![visitor badge]([https://visitor-badge.laobi.icu/badge?page_id=ZoniBoy00.ZoniBoy00&left_color=red&right_color=green&left_text=Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZoniBoy00.ZoniBoy00&left_color=red&right_color=green&left_text=Visitors))
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ZoniBoy00.ZoniBoy00&left_color=red&right_color=green&left_text=Visitors)
 
   ---
 
