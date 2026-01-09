@@ -25,24 +25,18 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZoniBoy00&theme=dracula" alt="GitHub Streak" height="170" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ZoniBoy00&theme=dracula&row=1&column=4" alt="GitHub Trophies" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=ZoniBoy00&theme=dracula" alt="GitHub Streak" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ZoniBoy00&theme=dracula" alt="GitHub Trophies" height="170" />
 </p>
 
 <p align="center">
