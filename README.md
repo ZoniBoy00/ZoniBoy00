@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm ZoniBoy00!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Code+is+Life;Always+Curious;Building+Cool+Stuff!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Building+Cool+Stuff!" alt="Typing SVG" />
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ZoniBoy00.ZoniBoy00&left_color=red&right_color=green&left_text=Visitors)
 
