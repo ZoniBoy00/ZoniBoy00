@@ -35,34 +35,34 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZoniBoy00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZoniBoy00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula" alt="Top Languages" height="170" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZoniBoy00&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ZoniBoy00&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=4" height="150" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZoniBoy00&theme=dracula" alt="GitHub Streak" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ZoniBoy00&theme=dracula&row=1&column=4" alt="GitHub Trophies" height="170" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZoniBoy00&theme=dracula&hide_border=false&hide_title=false" alt="GitHub Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZoniBoy00&theme=dracula&area=true" alt="GitHub Activity Graph" width="100%" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/ZoniBoy00/ZoniBoy00/output/snake.svg" alt="Snake animation" />
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZoniBoy00&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  **Thanks for visiting! 😊**
-</div>
+  <br>
+  <strong>Thanks for visiting! 😊</strong>
+</p>
 
 </div>
