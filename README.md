@@ -31,12 +31,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true" alt="Stats" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula" alt="Langs" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZoyBoy00&layout=compact&theme=dracula&langs_count=10&include_all_commits=true" alt="Langs" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ZoniBoy00&theme=dracula" alt="Streak" height="170" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ZoniBoy00&theme=dracula" alt="Trophies" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=ZoniBoy00&theme=dracula&v=2" alt="Streak" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ZoniBoy00&theme=dracula&v=2" alt="Trophies" height="170" />
 </p>
 
 <p align="center">
