@@ -30,17 +30,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true" alt="Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula" alt="Langs" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ZoniBoy00&theme=dracula" alt="GitHub Streak" height="170" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ZoniBoy00&theme=dracula" alt="GitHub Trophies" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=ZoniBoy00&theme=dracula" alt="Streak" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ZoniBoy00&theme=dracula" alt="Trophies" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZoniBoy00&theme=dracula&area=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZoniBoy00&theme=dracula&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
