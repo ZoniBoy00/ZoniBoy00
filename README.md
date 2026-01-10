@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm ZoniBoy00!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Cool+Stuff+with+Rust+%26+JS;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Building+Cool+Stuff+with" alt="Typing SVG" />
 
 <br>
 
