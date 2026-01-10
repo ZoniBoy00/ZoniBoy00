@@ -34,8 +34,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Stats" height="195" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula&langs_count=10&hide_title=false" alt="Langs" height="195" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Stats" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula&langs_count=10&hide_title=false" alt="Langs" height="160" />
 </p>
 
 <p align="center">
