@@ -33,10 +33,16 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Stats" height="160" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula&langs_count=10&hide_title=false" alt="Langs" height="160" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Stats" height="210" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula&langs_count=10&hide_title=false&count_private=true&include_all_commits=true" alt="Langs" height="210" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZoniBoy00&theme=dracula&area=true&hide_border=true" alt="Activity Graph" width="95%" />
