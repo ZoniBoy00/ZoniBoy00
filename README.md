@@ -36,10 +36,10 @@
 <table align="center">
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Stats" height="210" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Stats" height="200" />
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula&langs_count=10&hide_title=false&count_private=true&include_all_commits=true" alt="Langs" height="210" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula&langs_count=10&hide_title=false&count_private=true&include_all_commits=true" alt="Langs" height="200" />
     </td>
   </tr>
 </table>
