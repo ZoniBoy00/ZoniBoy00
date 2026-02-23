@@ -38,10 +38,10 @@
 <table align="center" border="0">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Stats" height="160" />
+      <img src="https://github-readme-stats-pi-eight-54.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Stats" height="160" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula&langs_count=8&count_private=true&include_all_commits=true&forks=true&hide=html,css" alt="Langs" height="160" />
+      <img src="https://github-readme-stats-pi-eight-54.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula&langs_count=8&count_private=true&include_all_commits=true&forks=true&hide=html,css" alt="Langs" height="160" />
     </td>
   </tr>
 </table>
