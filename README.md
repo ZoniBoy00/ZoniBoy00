@@ -4,9 +4,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Building+Cool+Stuff" alt="Typing SVG" />
 
-<br>
+<br><br>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ZoniBoy00.ZoniBoy00&left_color=red&right_color=green&left_text=Profile+Visitors)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZoniBoy00&label=Profile%20Visitors&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
@@ -36,10 +38,10 @@
 <table align="center" border="0">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Stats" height="160" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Stats" height="160" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula&langs_count=8&count_private=true&include_all_commits=true&forks=true&hide=html,css" alt="Langs" height="160" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula&langs_count=8&count_private=true&include_all_commits=true&forks=true&hide=html,css" alt="Langs" height="160" />
     </td>
   </tr>
 </table>
@@ -60,8 +62,6 @@
 
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZoniBoy00&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <br><br>
   <strong>Thanks for visiting! 😊</strong>
 </p>
 
