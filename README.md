@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm ZoniBoy00
+<h1 align="center"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23BD93F9" width="26" alt="" /> Hi, I'm ZoniBoy00</h1>
 
 ### Building tools, game systems and self-hosted infrastructure
 
@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center"><img src="https://api.iconify.design/lucide:code-2.svg?color=%23BD93F9" width="22" alt="" /> Tech Stack</h2>
 
 <h3 align="center">Languages</h3>
 
@@ -45,7 +45,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23BD93F9" width="22" alt="" /> GitHub Analytics</h2>
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 </div>
 
-<h2 align="center">📈 Activity</h2>
+<h2 align="center"><img src="https://api.iconify.design/lucide:activity.svg?color=%23BD93F9" width="22" alt="" /> Activity</h2>
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center"><img src="https://api.iconify.design/lucide:git-branch.svg?color=%23BD93F9" width="22" alt="" /> Contribution Snake</h2>
 
 <div align="center">
 
@@ -76,6 +76,6 @@
 
 <div align="center">
 
-**Thanks for visiting!** 💜
+**Thanks for visiting!** <img src="https://api.iconify.design/lucide:heart.svg?color=%23FF79C6" width="16" alt="" />
 
 </div>
