@@ -14,9 +14,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### Languages
+<h3 align="center">Languages</h3>
+
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-BD93F9?style=for-the-badge&logo=javascript&logoColor=282A36)
 ![TypeScript](https://img.shields.io/badge/TypeScript-BD93F9?style=for-the-badge&logo=typescript&logoColor=282A36)
@@ -26,7 +28,11 @@
 ![C#](https://img.shields.io/badge/C%23-BD93F9?style=for-the-badge&logo=csharp&logoColor=282A36)
 ![Lua](https://img.shields.io/badge/Lua-BD93F9?style=for-the-badge&logo=lua&logoColor=282A36)
 
-### Backend & Tools
+</div>
+
+<h3 align="center">Backend &amp; Tools</h3>
+
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-44475A?style=for-the-badge&logo=react&logoColor=8BE9FD)
 ![Node.js](https://img.shields.io/badge/Node.js-44475A?style=for-the-badge&logo=nodedotjs&logoColor=50FA7B)
@@ -34,6 +40,8 @@
 ![Docker](https://img.shields.io/badge/Docker-44475A?style=for-the-badge&logo=docker&logoColor=8BE9FD)
 ![Linux](https://img.shields.io/badge/Linux-44475A?style=for-the-badge&logo=linux&logoColor=F8F8F2)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-44475A?style=for-the-badge&logo=postgresql&logoColor=8BE9FD)
+
+</div>
 
 ---
 
