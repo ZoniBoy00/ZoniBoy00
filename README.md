@@ -47,7 +47,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZoniBoy00&theme=dracula&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph-five-iota.vercel.app/graph?username=ZoniBoy00&theme=dracula&area=true&hide_border=true" alt="Activity Graph" width="95%" />
 </p>
 
 ---
