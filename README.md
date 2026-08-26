@@ -1,68 +1,73 @@
 <div align="center">
 
-# 👋 Hi there, I'm ZoniBoy00!
+# 👋 Hi, I'm ZoniBoy00
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Building+Cool+Stuff" alt="Typing SVG" />
+### Building tools, game systems and self-hosted infrastructure
 
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=560&lines=Building+Cool+Stuff;Self-hosting+with+purpose;Code.+Play.+Improve." alt="Typing introduction" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZoniBoy00&label=Profile%20Visitors&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ZoniBoy00&label=Profile%20Views&color=BD93F9&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Languages
 
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-BD93F9?style=for-the-badge&logo=javascript&logoColor=282A36)
+![TypeScript](https://img.shields.io/badge/TypeScript-BD93F9?style=for-the-badge&logo=typescript&logoColor=282A36)
+![Python](https://img.shields.io/badge/Python-BD93F9?style=for-the-badge&logo=python&logoColor=282A36)
+![Rust](https://img.shields.io/badge/Rust-BD93F9?style=for-the-badge&logo=rust&logoColor=282A36)
+![Go](https://img.shields.io/badge/Go-BD93F9?style=for-the-badge&logo=go&logoColor=282A36)
+![C#](https://img.shields.io/badge/C%23-BD93F9?style=for-the-badge&logo=csharp&logoColor=282A36)
+![Lua](https://img.shields.io/badge/Lua-BD93F9?style=for-the-badge&logo=lua&logoColor=282A36)
+
+### Backend & Tools
+
+![React](https://img.shields.io/badge/React-44475A?style=for-the-badge&logo=react&logoColor=8BE9FD)
+![Node.js](https://img.shields.io/badge/Node.js-44475A?style=for-the-badge&logo=nodedotjs&logoColor=50FA7B)
+![Express](https://img.shields.io/badge/Express-44475A?style=for-the-badge&logo=express&logoColor=F8F8F2)
+![Docker](https://img.shields.io/badge/Docker-44475A?style=for-the-badge&logo=docker&logoColor=8BE9FD)
+![Linux](https://img.shields.io/badge/Linux-44475A?style=for-the-badge&logo=linux&logoColor=F8F8F2)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-44475A?style=for-the-badge&logo=postgresql&logoColor=8BE9FD)
 
 ---
 
 ## 📊 GitHub Analytics
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-pi-eight-54.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Stats" height="160" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-pi-eight-54.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula&langs_count=8&count_private=true&include_all_commits=true&forks=true&hide=html,css" alt="Langs" height="160" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph-five-iota.vercel.app/graph?username=ZoniBoy00&theme=dracula&area=true&hide_border=true" alt="Activity Graph" width="95%" />
-</p>
+<img height="170" src="https://github-readme-stats-pi-eight-54.vercel.app/api?username=ZoniBoy00&show_icons=true&theme=dracula&bg_color=282A36&title_color=BD93F9&text_color=F8F8F2&icon_color=FF79C6&border_color=44475A&count_private=true&include_all_commits=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats-pi-eight-54.vercel.app/api/top-langs/?username=ZoniBoy00&layout=compact&theme=dracula&bg_color=282A36&title_color=BD93F9&text_color=F8F8F2&icon_color=FF79C6&border_color=44475A&langs_count=8&count_private=true&include_all_commits=true&forks=true&hide=html,css" alt="Most used languages" />
+
+</div>
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph-five-iota.vercel.app/graph?username=ZoniBoy00&theme=dracula&bg_color=282A36&color=BD93F9&line=FF79C6&point=F8F8F2&area_color=BD93F9&area=true&hide_border=true" alt="GitHub activity graph" width="95%" />
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZoniBoy00/ZoniBoy00/output/snake.svg" alt="Snake animation" width="80%" />
-</p>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ZoniBoy00/ZoniBoy00/output/snake.svg" alt="Contribution snake animation" width="80%" />
+
+</div>
 
 ---
 
-<br>
-<p align="center">
-  <strong>Thanks for visiting! 😊</strong>
-</p>
+<div align="center">
+
+**Thanks for visiting!** 💜
 
 </div>
