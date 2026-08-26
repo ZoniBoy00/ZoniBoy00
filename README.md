@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 </div>
 
-## Activity
+<h2 align="center">📈 Activity</h2>
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
